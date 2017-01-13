@@ -1,0 +1,22 @@
+
+div#stage_2 .feature h2{
+    font-family:"proxima_nova_bold", 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size:36px;
+}
+
+div#stage_3 .feature h2{
+    font-family:"proxima_nova_bold", 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size:2.75em;
+}
+
+.feature .feature__inner h3{
+    font-family:"proxima_nova_bold", 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+.feature .feature__inner h2{
+    font-family:"proxima_nova_bold", 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+.home-projects .home-projects__text h3{
+    font-family:"proxima_nova_bold", 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
